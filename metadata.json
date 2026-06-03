@@ -1,0 +1,6 @@
+{
+  "name": "Epicure",
+  "description": "Epicure - Cinematic & Ultra-Premium Luxury Fine-Dining in Varanasi, India. A fusion of luxury hospitality branding, Varanasi heritage aesthetics, and elegant interactions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
